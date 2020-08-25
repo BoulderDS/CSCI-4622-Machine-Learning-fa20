@@ -9,8 +9,8 @@
 
 | Week   | Date         | Reading      |                   Topic               	   | Slides      | Homework   | 
 |:------:|:------------:| :-----------:| :----------------------------------------:|:-----------:|:----------:|
-| 1 | 8/24 |  | Machine Learning Intro.  | [lec1.pdf](../slides/lec1.pdf) | |
-| | 8/26 | Chapter 1 | Decision Trees Part 1 || |
+| 1 | 8/24 |  | Machine Learning Intro.  | [slides](../slides/lec1.pdf) | |
+| | 8/26 | Chapter 1 | Decision Trees Part 1 | [slides](../slides/lec2.pdf)| |
 | | 8/28 | | Decisions Trees Part 2 |  | |
 | 2 | 8/31 | Chapter 2  | Limits of Learning/Bias-Variance Trade-off  | | |
 | | 9/2 | Chapter 3 | K-Nearest Neighbors  |  | |
