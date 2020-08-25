@@ -23,7 +23,7 @@ All Zoom links are available on [Canvas](https://canvas.colorado.edu/courses/639
 * Canvas link: [https://canvas.colorado.edu/courses/63981](https://canvas.colorado.edu/courses/63981)
 * [Schedule and Slides](https://github.com/BoulderDS/CSCI-4622-Machine-Learning-fa20/blob/master/info/schedule.md)
 * Textbook: [A Course in Machine Learning](http://ciml.info/)
-* Lecture videos: [https://cu-classcapture.colorado.edu/Mediasite/mymediasite/channels/f5adfe679d034d7fb60d9ffbdda2da5c5f](https://cu-classcapture.colorado.edu/Mediasite/mymediasite/channels/f5adfe679d034d7fb60d9ffbdda2da5c5f)
+* Lecture videos: [https://cu-classcapture.colorado.edu/Mediasite/Channel/f5adfe679d034d7fb60d9ffbdda2da5c5f](https://cu-classcapture.colorado.edu/Mediasite/Channel/f5adfe679d034d7fb60d9ffbdda2da5c5f)
 
 
 ### Requirements for COVID-19
