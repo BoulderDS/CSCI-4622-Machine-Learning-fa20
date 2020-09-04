@@ -14,7 +14,7 @@
 | | 8/28 | | Decisions Trees Part 2 | [slides](../slides/lec3.pdf) | |
 | 2 | 8/31 | Chapter 2  | Limits of Learning/Bias-Variance Trade-off  | [slides](../slides/lec4.pdf)  | |
 | | 9/2 | Chapter 3 | K-Nearest Neighbors  |  [slides](../slides/lec5.pdf) | |
-| | 9/4 |  Chapter 4 | Perceptron |  | |
+| | 9/4 |  Chapter 4 | Perceptron |  [slides](../slides/lec6.pdf) | |
 | 3 | 9/7 |  | Labor day  |  | |
 | | 9/9 |  | Hands on decision KNN and perceptron |  |  |
 | | 9/11 | Chapter 5 | Feature Engineering |   | HW1 due |
