@@ -16,8 +16,8 @@
 | | 9/2 | Chapter 3 | K-Nearest Neighbors  |  [slides](../slides/lec5.pdf) | |
 | | 9/4 |  Chapter 4 | Perceptron |  [slides](../slides/lec6.pdf) | |
 | 3 | 9/7 |  | Labor day  |  | |
-| | 9/9 |  | Hands on decision KNN and perceptron |  |  |
-| | 9/11 | Chapter 5 | Feature Engineering |   | HW1 due |
+| | 9/9 |  | Hands on decision KNN and perceptron | [Notebooks](../in-class-notebooks) |  |
+| | 9/11 | Chapter 5 | Feature Engineering |  [slides](../slides/lec7.pdf) | HW1 due |
 | 4 | 9/14 | Chapter 9 & Chapter 7 | Logistic regression|  | |
 | | 9/16 | Chapter 7 | Stochastic gradient part 1 |  |
 | | 9/18 | Chapter 14  | Stochastic gradient part 2  |  | |
