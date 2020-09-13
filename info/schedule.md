@@ -18,7 +18,7 @@
 | 3 | 9/7 |  | Labor day  |  | |
 | | 9/9 |  | Hands on decision KNN and perceptron | [Notebooks](../in-class-notebooks) |  |
 | | 9/11 | Chapter 5 | Feature Engineering |  [slides](../slides/lec7.pdf) | HW1 due |
-| 4 | 9/14 | Chapter 9 & Chapter 7 | Logistic regression|  | |
+| 4 | 9/14 | Chapter 9 & Chapter 7 | Logistic regression| [slides](../slides/lec8.pdf) | |
 | | 9/16 | Chapter 7 | Stochastic gradient part 1 |  |
 | | 9/18 | Chapter 14  | Stochastic gradient part 2  |  | |
 | 5 | 9/21 | Chapter 5 | Validation  | | |
