@@ -21,7 +21,7 @@
 | 4 | 9/14 | Chapter 9 & Chapter 7 | Logistic regression| [slides](../slides/lec8.pdf) | |
 | | 9/16 | Chapter 7 | Stochastic gradient part 1 | [slides](../slides/lec9.pdf) |
 | | 9/18 | Chapter 14  | Stochastic gradient part 2  | [slides](../slides/lec10.pdf)/[Notebooks](../in-class-notebooks)  | |
-| 5 | 9/21 | Chapter 5 | Validation  | | |
+| 5 | 9/21 | Chapter 5 | Validation  |  [slides](../slides/lec11.pdf) | |
 | | 9/23 |Chapter 5 | Evaluation metrics  |  | |
 | | 9/25 |Chapter 6 |Multiclass classification|  | HW2 due |
 | 6 | 9/28 | |   Hands on validation and evaluation metrics |  | |
