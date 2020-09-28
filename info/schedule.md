@@ -24,7 +24,7 @@
 | 5 | 9/21 | Chapter 5 | Hands on Stochastic gradient  |  [Notebooks](../in-class-notebooks) | |
 | | 9/23 |Chapter 5 | Validation & Evaluation metrics  | [slides](../slides/lec11.pdf) | |
 | | 9/25 |Chapter 6 |Multiclass classification|[slides](../slides/lec12.pdf)   | HW2 due |
-| 6 | 9/28 | |   Hands on validation and evaluation metrics |  | |
+| 6 | 9/28 | |   Hands on validation and evaluation metrics | [Notebooks](../in-class-notebooks) | |
 | | 9/30 |  | Prelim 1 (week 1, 2, 3, 4) |  | |
 | | 10/2 | Chapter 10 | Neural Nets and MLP 	 |  |  |
 | 7 | 10/5 |  Chapter 10 | Neural network architecture | | |
