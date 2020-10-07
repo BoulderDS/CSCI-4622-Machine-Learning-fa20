@@ -28,7 +28,7 @@
 | | 9/30 |  | Prelim 1 (week 1, 2, 3, 4) |  | |
 | | 10/2 | Chapter 10 | Neural Nets and MLP 	 | [slides](../slides/lec13.pdf)  |  |
 | 7 | 10/5 |  Chapter 10 | Neural network architecture | [slides](../slides/lec14.pdf) | |
-| | 10/7 | Chapter 10 | Back Propagation Part 1 |  | |
+| | 10/7 | Chapter 10 | Back Propagation Part 1 | [slides](../slides/lec15.pdf) | |
 | | 10/9 | Chapter 10 | Back Propagation Part 2 |   | Final project team formation due|
 | 8 | 10/12 | | Hands on Neural nets	 |  | |
 | | 10/14 | Chapter 7  | Hard-Margin SVM | | |
