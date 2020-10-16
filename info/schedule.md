@@ -32,7 +32,7 @@
 | | 10/9 | Chapter 10 | Back Propagation Part 2 |  [slides](../slides/lec15.pdf) | Final project team formation due|
 | 8 | 10/12 | | Hands on Neural nets	 | [Notebooks](../in-class-notebooks) | |
 | | 10/14 | Chapter 7  | Hard-Margin SVM | [slides](../slides/lec16.pdf) | |
-| | 10/16 | | Soft-Margin SVM Part 1 |  | HW3  due |
+| | 10/16 | | Soft-Margin SVM Part 1 | [slides](../slides/lec17.pdf)  | HW3  due |
 | 9 | 10/19 | [Additional reading](https://cs.stanford.edu/people/davidknowles/lagrangian_duality.pdf) | Soft-Margin SVM Part 2 |  | |
 | | 10/21 | Chapter 11 | Kernel trick | | |
 | | 10/23 |  | Hands on SVM | | Final project proposal due |
