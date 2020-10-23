@@ -35,7 +35,7 @@
 | | 10/16 | | Soft-Margin SVM Part 1 | [slides](../slides/lec17.pdf)  | HW3  due |
 | 9 | 10/19 | [Additional reading](https://cs.stanford.edu/people/davidknowles/lagrangian_duality.pdf) | Soft-Margin SVM Part 2 | [slides](../slides/lec17.pdf)   | |
 | | 10/21 | Chapter 11 | Kernel trick | [slides](../slides/lec18.pdf)   | |
-| | 10/23 |  | Hands on SVM | | Final project proposal due |
+| | 10/23 |  | Hands on SVM | [Notebooks](../in-class-notebooks)  | Final project proposal due |
 | 10 | 10/26 | Chapter 12 | Bagging and Random Forests   |   | |
 | | 10/28 | | Boosted Decision Trees	| | |
 | | 10/30 | | Hands-On AdaBoost | | HW4 due |
