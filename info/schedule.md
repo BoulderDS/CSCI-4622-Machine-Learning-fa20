@@ -36,20 +36,20 @@
 | 9 | 10/19 | [Additional reading](https://cs.stanford.edu/people/davidknowles/lagrangian_duality.pdf) | Soft-Margin SVM Part 2 | [slides](../slides/lec17.pdf)   | |
 | | 10/21 | Chapter 11 | Kernel trick | [slides](../slides/lec18.pdf)   | |
 | | 10/23 |  | Hands on SVM | [Notebooks](../in-class-notebooks)  | Final project proposal due |
-| 10 | 10/26 | Chapter 12 | Bagging and Random Forests   |   | |
-| | 10/28 | | Boosted Decision Trees	| | |
-| | 10/30 | | Hands-On AdaBoost | | HW4 due |
-| 11 | 11/2 | Chapter 15| Unsupervised learning | | |
-| | 11/4 |  |  Dimensionality reduction, PCA/SVD  |    | |
+| 10 | 10/26 |  |  Hands on SVM continued   | [Notebooks](../in-class-notebooks)  | |
+| | 10/28 | | Bagging and Random Forests 	| | |
+| | 10/30 | | Boosted Decision Trees  | | HW4 due |
+| 11 | 11/2 | | Hands-On AdaBoost  | | |
+| | 11/4 | Chapter 15  |  Unsupervised learning |    | |
 | | 11/6 | | Prelim 2 (Week 5, 6, 7, 8)  | |  |
-| 12 | 11/9 | |  Clustering | | |
-| | 11/11 | Chapter 16 | Expectation-minimization algorithms |   | |
-| | 11/13 | | Topic models |  | HW5 due |
-| 13 | 11/16 | Chapter 12 | Learning theory I | | |
-| | 11/18 | | Learning theory II | | |
-| | 11/20 | Chapter 8 | Ethics and Machine Learning  |    | |
-| 14 | 11/23 |  |  Review | | |
-| | 11/25 | | Backup or Enjoy Thanksgiving! | | |
+| 12 | 11/9 | |   Dimensionality reduction, PCA/SVD  | | |
+| | 11/11 | Chapter 16 | Clustering  |   | |
+| | 11/13 | |  Expectation-minimization algorithms  |  | HW5 due |
+| 13 | 11/16 | Chapter 12 | Topic models | | |
+| | 11/18 | | Project midpoint check-in | | |
+| | 11/20 | Chapter 8 | Learning theory |    | |
+| 14 | 11/23 |  |   Ethics and Machine Learning   | | |
+| | 11/25 | | Enjoy Thanksgiving! | | |
 | | 11/27 | | Fall break | | |
 | 15 | 11/30 |  |  Prelim 3 (Week 9, 10, 11, 12) | |
 | | 12/2 | | Hackathon I |  | |
