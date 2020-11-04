@@ -40,18 +40,18 @@
 | | 10/28 | | Bagging and Random Forests 	| [slides](../slides/lec19.pdf)  | |
 | | 10/30 | | Boosted Decision Trees  | [slides](../slides/lec20.pdf)  | HW4 due |
 | 11 | 11/2 | | Hands-On AdaBoost  | [Notebooks](../in-class-notebooks)  | |
-| | 11/4 | Chapter 15  |  Unsupervised learning |    | |
+| | 11/4 | |  Review | [slides](../slides/lec20.pdf)     | |
 | | 11/6 | | Prelim 2 (Week 5, 6, 7, 8)  | |  |
-| 12 | 11/9 | |   Dimensionality reduction, PCA/SVD  | | |
-| | 11/11 | Chapter 16 | Clustering  |   | |
-| | 11/13 | |  Expectation-minimization algorithms  |  | HW5 due |
-| 13 | 11/16 | Chapter 12 | Topic models | | |
+| 12 | 11/9 | Chapter 15   |  Unsupervised learning| | |
+| | 11/11 | |  Dimensionality reduction, PCA/SVD    |   | |
+| | 11/13 | Chapter 16  |  Clustering    |  | |
+| 13 | 11/16 | | Expectation-minimization algorithms | | |
 | | 11/18 | | Project midpoint check-in | | |
-| | 11/20 | Chapter 8 | Learning theory |    | |
+| | 11/20 | Chapter 8 | Learning theory |    |HW5 due  |
 | 14 | 11/23 |  |   Ethics and Machine Learning   | | |
 | | 11/25 | | Enjoy Thanksgiving! | | |
 | | 11/27 | | Fall break | | |
-| 15 | 11/30 |  |  Prelim 3 (Week 9, 10, 11, 12) | |
+| 15 | 11/30 |  |  Prelim 3 (Week 10, 11, 12, 13) | |
 | | 12/2 | | Hackathon I |  | |
 | | 12/4 | | Hackathon II | | |
 | 16 | 12/7 |  | Final project presentation | |  Final project report due|
