@@ -42,12 +42,12 @@
 | 11 | 11/2 | | Hands-On AdaBoost  | [Notebooks](../in-class-notebooks)  | |
 | | 11/4 | |  Review | [slides](../slides/lec20.pdf)     | |
 | | 11/6 | | Prelim 2 (Week 5, 6, 7, 8)  | |  |
-| 12 | 11/9 | Chapter 15   |  Unsupervised learning| | |
-| | 11/11 | |  Dimensionality reduction, PCA/SVD    |   | |
-| | 11/13 | Chapter 16  |  Clustering    |  | |
-| 13 | 11/16 | | Expectation-minimization algorithms | | |
+| 12 | 11/9 | Chapter 15   |  Unsupervised learning/PCA | | |
+| | 11/11 | |  Clustering   |   | |
+| | 11/13 | Chapter 16  |  Expectation-minimization algorithms     |  | |
+| 13 | 11/16 | | Topic models | | |
 | | 11/18 | | Project midpoint check-in | | |
-| | 11/20 | Chapter 8 | Learning theory |    |HW5 due  |
+| | 11/20 | Chapter 8 | Learning theory |    | HW5 due  |
 | 14 | 11/23 |  |   Ethics and Machine Learning   | | |
 | | 11/25 | | Enjoy Thanksgiving! | | |
 | | 11/27 | | Fall break | | |
