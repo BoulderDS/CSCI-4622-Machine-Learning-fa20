@@ -40,9 +40,9 @@
 | | 10/28 | | Bagging and Random Forests 	| [slides](../slides/lec19.pdf)  | |
 | | 10/30 | | Boosted Decision Trees  | [slides](../slides/lec20.pdf)  | HW4 due |
 | 11 | 11/2 | | Hands-On AdaBoost  | [Notebooks](../in-class-notebooks)  | |
-| | 11/4 | |  Review | [slides](../slides/lec20.pdf)     | |
+| | 11/4 | |  Review | [slides](../slides/lec21.pdf)     | |
 | | 11/6 | | Prelim 2 (Week 5, 6, 7, 8)  | |  |
-| 12 | 11/9 | Chapter 15   |  Unsupervised learning/PCA | | |
+| 12 | 11/9 | Chapter 15   |  Unsupervised learning/PCA | [slides](../slides/lec22.pdf)   | |
 | | 11/11 | |  Clustering   |   | |
 | | 11/13 | Chapter 16  |  Expectation-minimization algorithms     |  | |
 | 13 | 11/16 | | Topic models | | |
