@@ -43,7 +43,7 @@
 | | 11/4 | |  Review | [slides](../slides/lec21.pdf)     | |
 | | 11/6 | | Prelim 2 (Week 5, 6, 7, 8)  | |  |
 | 12 | 11/9 | Chapter 15   |  Unsupervised learning/PCA | [slides](../slides/lec22.pdf)   | |
-| | 11/11 | |  Clustering   |   | |
+| | 11/11 | |  Clustering   | [slides](../slides/lec23.pdf)   | |
 | | 11/13 | Chapter 16  |  Expectation-minimization algorithms     |  | |
 | 13 | 11/16 | | Topic models | | |
 | | 11/18 | | Project midpoint check-in | | |
