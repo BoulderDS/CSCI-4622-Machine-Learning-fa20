@@ -44,7 +44,7 @@
 | | 11/6 | | Prelim 2 (Week 5, 6, 7, 8)  | |  |
 | 12 | 11/9 | Chapter 15   |  Unsupervised learning/PCA | [slides](../slides/lec22.pdf)   | |
 | | 11/11 | |  Clustering   | [slides](../slides/lec23.pdf)   | |
-| | 11/13 | Chapter 16  |  Expectation-minimization algorithms     |  | |
+| | 11/13 | Chapter 16  |  Gaussian mixture models and Expectation-minimization algorithms     | [slides](../slides/lec24.pdf) | |
 | 13 | 11/16 | | Topic models | | |
 | | 11/18 | | Project midpoint check-in | | |
 | | 11/20 | Chapter 8 | Learning theory |    | HW5 due  |
