@@ -47,7 +47,7 @@
 | | 11/13 | Chapter 16  |  Gaussian mixture models and Expectation-minimization algorithms     | [slides](../slides/lec24.pdf) | |
 | 13 | 11/16 | | Topic models | [slides](../slides/lec25.pdf) | |
 | | 11/18 | | Project midpoint check-in | | |
-| | 11/20 | Chapter 8 | Learning theory |    | HW5 due  |
+| | 11/20 | Chapter 8 | Learning theory |  [slides](../slides/lec26.pdf)  | HW5 due  |
 | 14 | 11/23 |  |   Ethics and Machine Learning   | | |
 | | 11/25 | | Enjoy Thanksgiving! | | |
 | | 11/27 | | Fall break | | |
