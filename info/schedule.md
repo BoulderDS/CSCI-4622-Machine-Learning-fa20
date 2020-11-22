@@ -48,7 +48,7 @@
 | 13 | 11/16 | | Topic models | [slides](../slides/lec25.pdf) | |
 | | 11/18 | | Project midpoint check-in | | |
 | | 11/20 | Chapter 8 | Learning theory |  [slides](../slides/lec26.pdf)  | HW5 due  |
-| 14 | 11/23 |  |   Ethics and Machine Learning   | | |
+| 14 | 11/23 |  |   Ethics and Machine Learning   | [slides](../slides/lec27.pdf)  | |
 | | 11/25 | | Enjoy Thanksgiving! | | |
 | | 11/27 | | Fall break | | |
 | 15 | 11/30 |  |  Prelim 3 (Week 10, 11, 12, 13) | |
